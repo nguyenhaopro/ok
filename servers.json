@@ -1,0 +1,29 @@
+{
+    "servers": [
+        {
+            "name": "DDoS-Guard",
+            "url": "https://zetvideo.net/nginx_status",
+            "protection_type": "DDoS-Guard"
+        },
+        {
+            "name": "Datacamp-Limited",
+            "url": "http://156.146.53.101/nginx_status",
+            "protection_type": "Datacamp-Limited"
+        },
+        {
+            "name": "NonProtect",
+            "url": "https://nodec.mediathektv.com/nginx_status",
+            "protection_type": "NonProtect"
+        },
+        {
+            "name": "Nat",
+            "url": "https://natnetwork.sbs/nginx_status",
+            "protection_type": "Nat"
+        },
+        {
+            "name": "CF-BUSINESS",
+            "url": "https://cc.shopclonelv8.click/nginx_status",
+            "protection_type": "CF-BUSINESS"
+        }
+    ]
+}

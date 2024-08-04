@@ -1,0 +1,16 @@
+{
+    "servers": [
+        {
+            "name": "WorldStream",
+            "url": "http://80.79.4.32:19999/api/v1/data?chart=system.net&format=json&points=2&options=jsonwrap|nonzero|minify&dimensions=received&group=average&after=-120",
+            "ip": "80.79.4.32",
+            "protection_type": "WorldStream"
+        },
+        {
+            "name": "OVH",
+            "url": "http://66.70.205.227:19999/api/v1/data?chart=system.net&format=json&points=2&options=jsonwrap|nonzero|minify&dimensions=received&group=average&after=-120",
+            "ip": "66.70.205.227",
+            "protection_type": "OVH-1 Anti DDoS"
+        }
+    ]
+}
